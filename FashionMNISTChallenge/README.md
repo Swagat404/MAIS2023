@@ -13,6 +13,8 @@ submission.csv has the predicted labels which was submitted for this challenge.
 
 # How to use?
 
+Load the necessary files:   kaggle competitions download -c mais-202-winter-2023
+
 ```bash
 
 from sklearn.ensemble import GradientBoostingClassifier
