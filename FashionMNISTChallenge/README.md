@@ -1,17 +1,17 @@
-#Overview
+# Overview
 This is a kaggle challenge as part of the final assignment for MAIS 2023.
 https://www.kaggle.com/competitions/mais-202-winter-2023/overview
 
-#Model Used
+# Model Used
 I used Gradient Boosting for classifying the images according to the labels. The weights have been saved as a binary file:model1 after training it with the images in the dataset.
 
-#Accuracy achieved
+# Accuracy achieved
 The evaluation metric for this competition is *class label accuracy*.A public score of 0.82 was achieved with the predicted labels
 
-#Submission
+# Submission
 submission.csv has the predicted labels which was submitted for this challenge.
 
-#How to use?
+# How to use?
 
 ```bash
 
